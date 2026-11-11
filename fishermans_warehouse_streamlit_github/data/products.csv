@@ -1,0 +1,4 @@
+sku,name,category,description,price,stock,image,weight_kg,length_cm,width_cm,height_cm
+FW001,Saltwater Spinning Rod,Rods,Versatile rod for shore and rock fishing,1299,8,https://images.unsplash.com/photo-1517504734587-289d6b7de2d5?auto=format&fit=crop&w=900&q=80,0.8,120,8,8
+FW002,Fishing Lure Selection,Lures,A selection of lures for your next session,189,24,https://images.unsplash.com/photo-1530053969600-caed2596d242?auto=format&fit=crop&w=900&q=80,0.2,20,12,5
+FW003,Tackle Accessories,Terminal Tackle,Hooks swivels sinkers and rigging essentials,99,35,https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=900&q=80,0.1,15,10,5
