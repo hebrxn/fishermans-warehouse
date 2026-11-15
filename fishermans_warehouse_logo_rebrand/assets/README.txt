@@ -1,1 +1,0 @@
-Add official store logo as logo.png
